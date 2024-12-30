@@ -8,7 +8,6 @@
   body {
     background: linear-gradient(313deg, #0092ff, #0b47f1, #111fb8);
     background-size: 600% 600%;
-
     -webkit-animation: AnimationName 30s ease infinite;
     -moz-animation: AnimationName 30s ease infinite;
     animation: AnimationName 30s ease infinite;
