@@ -5,6 +5,7 @@
     font-family: arial;
     text-transform: capitalize;
   }
+
   body {
     background: linear-gradient(313deg, #0092ff, #0b47f1, #111fb8);
     background-size: 600% 600%;
